@@ -133,7 +133,7 @@ The system was tested using multiple railway track images.
 
 ## 👩‍💻 Author
 
-**Dande Vishnu Priya**
+**Amara Sathwika**
 B.Tech – Artificial Intelligence & Machine Learning
 St. Ann’s College of Engineering and Technology, Chirala
 
